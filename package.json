@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gray-matter": "^4.0.3",
+    "mangodb": "^1.0.0",
+    "mongodb": "4.1",
     "next": "13.4.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7",
+    "react-syntax-highlighter": "^15.5.0"
   },
   "devDependencies": {
     "eslint": "8.40.0",
